@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hans-Counter/static/css/main.d45c8534.css",
+    "main.js": "/hans-Counter/static/js/main.099f559c.js",
+    "index.html": "/hans-Counter/index.html",
+    "main.d45c8534.css.map": "/hans-Counter/static/css/main.d45c8534.css.map",
+    "main.099f559c.js.map": "/hans-Counter/static/js/main.099f559c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d45c8534.css",
+    "static/js/main.099f559c.js"
+  ]
+}
